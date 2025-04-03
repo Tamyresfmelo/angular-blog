@@ -1,5 +1,7 @@
 # AngularBlog
 
+Esse é um projeto realizado no Decola Tech 2025 da DIO.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
 
 ## Development server
